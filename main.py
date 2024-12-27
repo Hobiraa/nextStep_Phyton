@@ -1,0 +1,5 @@
+print("Hello World!")
+print("Hyy")
+print("Mamata Lopchan")
+print("Happy")
+print("Mo:Mo")
